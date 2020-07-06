@@ -93,5 +93,14 @@
    <version>2.8.6</version>
 </dependency>
 ```
+* [Junit5](https://github.com/junit-team/junit5)
+```
+<dependency>
+   <groupId>org.junit.jupiter</groupId>
+   <artifactId>junit-jupiter-api</artifactId>
+   <version>5.7.0-M1</version>
+   <scope>test</scope>
+</dependency>
+```
 
 
